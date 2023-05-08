@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+_name.py = "str"
+print(_name.py)
