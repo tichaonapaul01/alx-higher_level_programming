@@ -1,1 +1,1 @@
-Import modules and command line arguments.
+Python modules and command line arguments project.
