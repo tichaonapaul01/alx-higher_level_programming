@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-for i in range(10):
-    for j in range(i+1, 10):
-        print("{0}{1}, ".format(i, j), end="")
-print("89\n")
+#!/usr/bin/python3
+for a in range(10):
+    for b in range(10):
+        if a == 8 and b == 9:
+            print("{}{}".format(a, b))
+        elif b > a:
+            print("{}{}, ".format(a, b), end="")
