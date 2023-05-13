@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def remove_char_at(s, n):
     # Check if the index is valid
     if n < 0 or n >= len(s):
