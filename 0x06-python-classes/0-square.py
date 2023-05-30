@@ -10,3 +10,6 @@ class Square():
     Empty Class
     """
     pass
+
+s = Square()
+print(s)
