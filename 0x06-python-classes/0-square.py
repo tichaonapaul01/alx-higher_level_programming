@@ -1,8 +1,12 @@
 #!/usr/bin/python3
+"""
+Module 0-scuare.py
+Define a empty Class Square
+"""
 
-class Square:
-    """An empty class Square that defines a square"""
+
+class Square():
+    """
+    Empty Class
+    """
     pass
-
-s = Square()
-print(s)
