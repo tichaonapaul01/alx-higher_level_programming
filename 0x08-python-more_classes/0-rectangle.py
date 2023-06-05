@@ -5,11 +5,8 @@ Write an empty class Rectangle that defines a rectangle:
 
 
 class Rectangle:
-    def __init__(self):
-        pass
+    '''
+    empty class
+    '''
 
-    def area(self):
-        pass
-
-    def perimeter(self):
-        pass
+    pass
