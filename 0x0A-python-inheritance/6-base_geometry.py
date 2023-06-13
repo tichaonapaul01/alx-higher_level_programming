@@ -10,7 +10,7 @@ class BaseGeometry:
     """
     A base class for geometry-related operations.
 
-    This class provides a foundation for implementing geometry-related functionality.
+    This class provides a foundation for geometry-related functionality.
     """
 
     @classmethod

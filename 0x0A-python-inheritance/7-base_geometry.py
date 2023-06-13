@@ -10,7 +10,7 @@ class BaseGeometry:
     """
     A base class for geometry-related operations.
 
-    This class provides a foundation for implementing geometry-related functionality.
+    This class provides a foundation for geometry-related functionality.
     """
 
     def area(self):
@@ -38,4 +38,3 @@ class BaseGeometry:
             raise TypeError("{} must be an integer".format(name))
         if value <= 0:
             raise ValueError("{} must be greater than 0".format(name))
-

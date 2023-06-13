@@ -12,7 +12,7 @@ class Rectangle(BaseGeometry):
     """
     Rectangle class that inherits from BaseGeometry.
 
-    This class represents a rectangle and inherits functionality from the BaseGeometry class.
+    Class represents rectangle and inherits functional from BaseGeometry class.
     """
 
     def __init__(self, width, height):
@@ -31,4 +31,3 @@ class Rectangle(BaseGeometry):
         self.__width = width
         self.integer_validator("height", height)
         self.__height = height
-
